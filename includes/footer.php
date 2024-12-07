@@ -82,7 +82,7 @@
     
     $(document).ready(() => {
         setTimeout(()=> {
-            addInput(12);
+            addInput(24);
         },50);
     });
     
